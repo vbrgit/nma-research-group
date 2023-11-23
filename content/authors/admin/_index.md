@@ -55,8 +55,10 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   []
-#Our work aims to bridge the gap between theory and application, with a practical emphasis on real-world problem-solving. 
+
 ---
 
-The **Numerical Methods and Applications Research Group** at UC3M focus on developing, analyzing, and implementing numerical methods to address challenges at the intersection of mathematics, science/engineering, and high-performance scientific computing.  
+The **Numerical Methods and Applications Research Group** at UC3M focus on developing, analyzing, and implementing numerical methods to address challenges at the intersection of mathematics, science/engineering, and high-performance scientific computing. 
+
+Our work aims to bridge the gap between theory and application, with a practical emphasis on real-world problem-solving. 
 
