@@ -60,4 +60,4 @@ user_groups:
 
 ---
 
-Diego Álvarez obtained his bachelor degree in Physics at Universidad Autónoma de Madrid in 1993 and received his PhD in Mathematical Engineering from Universidad Carlos III de Madrid in 2001. Currently he is an associate professor in the Mathematics Department there. His interests cover various areas of Applied Mathematics, such as modeling, inverse problems, numerical solution of partial differential equations, image processing, etc.
+Diego Álvarez obtained his Bachelor's Degree in Physics from Universidad Autónoma de Madrid in 1993, and his PhD in Mathematical Engineering from Universidad Carlos III de Madrid in 2001. Currently, he is an Associate Professor in the [Department of Mathematics](https://www.uc3m.es/departamento-matematicas/inicio) at UC3M. His interests cover various areas of Applied Mathematics, such as modeling, inverse problems, numerical solution of partial differential equations, image processing, etc.

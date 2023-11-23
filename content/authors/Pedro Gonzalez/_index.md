@@ -66,7 +66,7 @@ user_groups:
 
 ---
 
-Pedro González Rodríguez received a Degree in Mathematics from the Universidad Autónoma de Madrid in 1997, and a PhD degree on Applied Mathematics from Universidad Carlos III de Madrid in 2005. Before returning to Universidad Carlos III he was a postdoc at the Institute of Applied and Computational Mathematics at Heraklion, Greece and also a the University of California Merced, USA.
+Pedro González Rodríguez received a Bachelor Degree in Mathematics from Universidad Autónoma de Madrid in 1997, and a PhD degree on Applied Mathematics from Universidad Carlos III de Madrid in 2005. Before his current position as an Associate Professor at the [Department of Mathematics](https://www.uc3m.es/departamento-matematicas/inicio) at UC3M, he was a postdoctoral fellow at the [Institute of Applied and Computational Mathematics](https://www.iacm.forth.gr/) in Heraklion, Greece, and at the [University of California Merced](https://appliedmath.ucmerced.edu/), USA.
 
 He is the author of over 20 technical papers which cover different topics such as numerical methods (RBFs), inverse problems, and medical imaging. Nowadays he is also interested in neural networks. In particular, he is interested in the Physics Informed Neural Networks (PINNs) and its use to solve direct and inverse problems.
 
