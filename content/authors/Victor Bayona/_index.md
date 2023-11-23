@@ -60,6 +60,6 @@ user_groups:
 
 ---
 
-Víctor Bayona earned his PhD degree in Mathematical Engineering from Universidad Carlos III de Madrid in 2013. He served as a Postdoctoral Fellow from 2013 to 2015 in the Advanced Study Program (ASP) at the [National Center for Atmospheric Research](https://ncar.ucar.edu/) in Boulder, CO (USA). From 2015 to 2017 he held research positions in the Numerical Aspects Section at [ECMWF](https://www.ecmwf.int/), Reading (UK), and the [Department of Mathematical Sciences](https://www.bath.ac.uk/departments/department-of-mathematical-sciences/) at the University of Bath (UK).
+Víctor Bayona earned his PhD in Mathematical Engineering from Universidad Carlos III de Madrid in 2013. He served as a Postdoctoral Fellow from 2013 to 2015 in the Advanced Study Program (ASP) at the [National Center for Atmospheric Research](https://ncar.ucar.edu/) in Boulder, CO (USA). From 2015 to 2017 he held research positions in the Numerical Aspects Section at [ECMWF](https://www.ecmwf.int/), Reading (UK), and the [Department of Mathematical Sciences](https://www.bath.ac.uk/departments/department-of-mathematical-sciences/) at the University of Bath (UK).
 
 In 2017, he joined the [Department of Mathematics](https://www.uc3m.es/departamento-matematicas/inicio) at UC3M as a Visiting Professor and has been serving as an Associate Professor since 2021. His research is focused on advancing and applying numerical methods for PDEs, with a particular emphasis on meshfree methods based on radial basis functions (RBFs).
