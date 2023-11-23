@@ -31,9 +31,9 @@ organizations:
 bio: 
 
 interests:
-  - Numerical algorithms for elliptic PDEs.
-  - High Parallel Computing.
-  - Numerical Linear Algebra.
+  - Numerical algorithms for elliptic PDEs
+  - High Parallel Computing
+  - Numerical Linear Algebra
 
 
 # Social/Academic Networking

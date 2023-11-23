@@ -27,7 +27,7 @@ bio:
 
 interests:
   - Radial Basis Functions for solving PDE's
-  - Physics Informed Neural Networks
+  - Physics Informed Neural Networks for direct and inverse problems
   - Biomedical image processing 
 
 # Social/Academic Networking
