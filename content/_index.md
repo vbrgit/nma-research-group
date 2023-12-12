@@ -80,7 +80,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: compact
+      view: 2
       # Choose single or dual column layout
       columns: '2'
 
