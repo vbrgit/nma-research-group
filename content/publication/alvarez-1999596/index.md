@@ -6,7 +6,7 @@ title: Ion temperature gradient turbulence numerical calculations
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- J.D. Alvarez
+- Alvarez
 - L. Garcia
 
 # Author notes (such as 'Equal Contribution')
@@ -16,7 +16,7 @@ author_notes: []
 date: '1999-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:47.132657Z'
+publishDate: '2023-12-21T16:17:57.282077Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

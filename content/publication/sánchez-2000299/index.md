@@ -7,7 +7,7 @@ title: Dynamics of electric field domain walls in semiconductor superlattices
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - D. Sánchez
-- M. Moscoso
+- Moscoso
 - L.L. Bonilla
 - G. Platero
 - R. Aguado
@@ -19,7 +19,7 @@ author_notes: []
 date: '2000-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:47.108458Z'
+publishDate: '2023-12-21T16:17:57.260691Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

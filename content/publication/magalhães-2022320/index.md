@@ -9,7 +9,7 @@ title: A distributed Monte Carlo based linear algebra solver applied to the anal
 authors:
 - F. Magalhães
 - J. Monteiro
-- J.A. Acebrón
+- Acebron
 - J.R. Herrero
 
 # Author notes (such as 'Equal Contribution')
@@ -19,7 +19,7 @@ author_notes: []
 date: '2022-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:46.262049Z'
+publishDate: '2023-12-21T16:17:56.530387Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

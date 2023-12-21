@@ -8,7 +8,7 @@ last_name: González-Rodríguez
 
 # Username (this should match the folder name)
 authors:
-  - Pedro Gonzalez
+  - Gonzalez
 
 #Author Names (alternative spellings etc)
 names:

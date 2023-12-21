@@ -8,7 +8,7 @@ title: Influence of the relative refractive index on the depolarization of multi
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - A.D. Kim
-- M. Moscoso
+- Moscoso
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -17,7 +17,7 @@ author_notes: []
 date: '2001-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:47.055159Z'
+publishDate: '2023-12-21T16:17:57.218565Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

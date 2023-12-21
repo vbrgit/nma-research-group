@@ -7,7 +7,7 @@ title: Volatility Uncertainty Quantification in a Stochastic Control Problem App
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- F. Bernal
+- Bernal
 - E. Gobet
 - J. Printems
 
@@ -18,7 +18,7 @@ author_notes: []
 date: '2020-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:46.325299Z'
+publishDate: '2023-12-21T16:17:56.584671Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

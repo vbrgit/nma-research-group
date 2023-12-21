@@ -6,7 +6,7 @@ title: Cooperative dynamics in a class of coupled two-dimensional oscillators
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- J.A. Acebrón
+- Acebron
 - W.-J. Rappel
 - A.R. Bulsara
 
@@ -17,7 +17,7 @@ author_notes: []
 date: '2003-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:47.006967Z'
+publishDate: '2023-12-21T16:17:57.178771Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

@@ -7,7 +7,7 @@ title: A 3-D RBF-FD solver for modeling the atmospheric global electric circuit 
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- V. Bayona
+- Bayona
 - N. Flyer
 - G.M. Lucas
 - A.J.G. Baumgaertner
@@ -19,7 +19,7 @@ author_notes: []
 date: '2015-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:46.502157Z'
+publishDate: '2023-12-21T16:17:56.730319Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

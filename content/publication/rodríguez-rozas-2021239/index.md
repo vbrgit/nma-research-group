@@ -7,7 +7,7 @@ title: The PDD Method for Solving Linear, Nonlinear, and Fractional PDEs Problem
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Á. Rodríguez-Rozas
-- J.A. Acebrón
+- Acebron
 - R. Spigler
 
 # Author notes (such as 'Equal Contribution')
@@ -17,7 +17,7 @@ author_notes: []
 date: '2021-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:46.297465Z'
+publishDate: '2023-12-21T16:17:56.561736Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

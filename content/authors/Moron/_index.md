@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Miguel Moscoso
+title: Jorge Morón
 
 # Full name (for SEO)
-first_name: Miguel
-last_name: Moscoso
+first_name: Jorge
+last_name: Morón-Vidal
 
 # Username (this should match the folder name)
 authors:
-  - Miguel Moscoso
+  - Moron
 
 #Author Names (alternative spellings etc)
 names:
-- Miguel Moscoso
-- M. Moscoso
-- M Moscoso
+- Jorge Morón-Vidal
+- J. Morón-Vidal
+
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Full Professor
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -31,9 +31,9 @@ organizations:
 bio: 
 
 interests:
-  - Compressive sensing
-  - Mathematical optimization
-  - Direct and inverse scattering in random media
+  - Numerical algorithms for elliptic PDEs
+  - High Parallel Computing
+  - Numerical Linear Algebra
 
 
 # Social/Academic Networking
@@ -43,13 +43,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:moscoso@math.uc3m.es'
+    link: 'mailto:jmoron@math.uc3m.es'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=3sySxcAAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?user=37_dsSYAAAAJ&hl=es
   - icon: orcid
     icon_pack: fab
-    link: https://orcid.org/0000-0001-8461-1578
+    link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,4 +66,4 @@ user_groups:
 
 ---
 
-I am interested in research problems at the interface between mathematics, sciences, and engineering. I work on the development of mathematical methodologies and computational tools to extract information from complex data, specially when the data are scarce.  Mathematically, this includes compressed sensing tools, new optimization approaches, and data analysis. My applied research ranges from  the use of optimization methods in imaging, in particular in the development of data-driven algorithms, to other inverse problems that can benefit from the same or similar algorithms.
+Jorge Morón-Vidal got his Bachelor of Science in Physics in 2018 from the University of Zaragoza. In 2019, he completed a Master's in General Physics from the University of Zaragoza and Cergy Paris University. Since 2019, he has been a mathematical engineering PhD candidate at UC3M, supervised by Dr Francisco Bernal. It is expected that he will defend his PhD in early 2024. His research interests include probabilistic domain decomposition algorithms, numerical methods for PDE solving and high parallel computing.

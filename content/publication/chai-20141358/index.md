@@ -7,7 +7,7 @@ title: Imaging strong localized Scatterers with Sparsity promoting optimization
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - A. Chai
-- M. Moscoso
+- Moscoso
 - G. Papanicolaou
 
 # Author notes (such as 'Equal Contribution')
@@ -17,7 +17,7 @@ author_notes: []
 date: '2014-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:46.540103Z'
+publishDate: '2023-12-21T16:17:56.762284Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -50,7 +50,7 @@ abstract: We study active array imaging of small but strong scatterers in homoge
   resolution of the images, we propose an approach that combines optimal illuminations
   using the singular value decomposition of the response matrix together with sparsity
   promoting optimization jointly for all illuminations. In this work, an extension
-  of our previous paper [A. Chai, M. Moscoso, and G. Papanicolaou, Inverse Problems,
+  of our previous paper [A. Chai, Moscoso, and G. Papanicolaou, Inverse Problems,
   29 (2013), 025016] on imaging using optimization techniques, we now account for
   multiple scattering effects. © 2014 Society for Industrial and Applied Mathematics.
 

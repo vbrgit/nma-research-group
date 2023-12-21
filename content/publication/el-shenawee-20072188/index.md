@@ -8,7 +8,7 @@ title: On the stability of surface shape reconstruction using microwave algorith
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - M. El-Shenawee
-- M. Moscoso
+- Moscoso
 - O. Dorn
 
 # Author notes (such as 'Equal Contribution')
@@ -18,7 +18,7 @@ author_notes: []
 date: '2007-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:46.846939Z'
+publishDate: '2023-12-21T16:17:57.018051Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

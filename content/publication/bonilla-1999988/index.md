@@ -7,8 +7,8 @@ title: Determination of EL2 capture and emission coefficients in semi-insulating
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - L.L. Bonilla
-- P.J. Hernando
-- M. Kindelan
+- Hernando
+- Kindelan
 - F. Piazza
 
 # Author notes (such as 'Equal Contribution')
@@ -18,7 +18,7 @@ author_notes: []
 date: '1999-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:47.122273Z'
+publishDate: '2023-12-21T16:17:57.273545Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

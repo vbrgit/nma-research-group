@@ -7,7 +7,7 @@ title: Momentum-space structure of relativistic runaway electrons
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - J.R. Martín-Solís
-- J.D. Alvarez
+- Alvarez
 - R. Sánchez
 - B. Esposito
 
@@ -18,7 +18,7 @@ author_notes: []
 date: '1998-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:47.163963Z'
+publishDate: '2023-12-21T16:17:57.307796Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

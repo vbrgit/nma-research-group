@@ -9,8 +9,8 @@ title: Imaging low sensitivity regions in petroleum reservoirs using topological
 authors:
 - R. Villegas
 - O. Dorn
-- M. Kindelan
-- M. Moscoso
+- Kindelan
+- Moscoso
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -19,7 +19,7 @@ author_notes: []
 date: '2007-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:46.852082Z'
+publishDate: '2023-12-21T16:17:57.022967Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

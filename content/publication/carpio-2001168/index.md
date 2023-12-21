@@ -8,8 +8,8 @@ title: Numerical study of hyperbolic equations with integral constraints arising
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - A. Carpio
-- P. Hernando
-- M. Kindelan
+- Hernando
+- Kindelan
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -18,7 +18,7 @@ author_notes: []
 date: '2001-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:47.060307Z'
+publishDate: '2023-12-21T16:17:57.222779Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

@@ -1,21 +1,26 @@
 ---
 # Display name
-title: Diego Álvarez
+title: Miguel Moscoso
 
 # Full name (for SEO)
-first_name: Diego
-last_name: Álvarez
+first_name: Miguel
+last_name: Moscoso
 
 # Username (this should match the folder name)
 authors:
-  - Diego Álvarez
+  - Moscoso
 
+#Author Names (alternative spellings etc)
+names:
+- Miguel Moscoso
+- M. Moscoso
+- M Moscoso
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Full Professor
 
 # Organizations/Affiliations
 organizations:
@@ -26,9 +31,10 @@ organizations:
 bio: 
 
 interests:
-  - Radial Basis Functions for solving PDE's
-  - Physics Informed Neural Networks for direct and inverse problems
-  - Biomedical image processing 
+  - Compressive sensing
+  - Mathematical optimization
+  - Direct and inverse scattering in random media
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -37,13 +43,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jdiego@math.uc3m.es'
+    link: 'mailto:moscoso@math.uc3m.es'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=2_fatvUAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?user=3sySxcAAAAAJ&hl=en&oi=ao
   - icon: orcid
     icon_pack: fab
-    link: https://orcid.org/0000-0002-3712-2461
+    link: https://orcid.org/0000-0001-8461-1578
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,4 +66,4 @@ user_groups:
 
 ---
 
-Diego Álvarez obtained his Bachelor's Degree in Physics from Universidad Autónoma de Madrid in 1993, and his PhD in Mathematical Engineering from Universidad Carlos III de Madrid in 2001. Currently, he is an Associate Professor in the [Department of Mathematics](https://www.uc3m.es/departamento-matematicas/inicio) at UC3M. His interests cover various areas of Applied Mathematics, such as modeling, inverse problems, numerical solution of partial differential equations, image processing, etc.
+I am interested in research problems at the interface between mathematics, sciences, and engineering. I work on the development of mathematical methodologies and computational tools to extract information from complex data, specially when the data are scarce.  Mathematically, this includes compressed sensing tools, new optimization approaches, and data analysis. My applied research ranges from  the use of optimization methods in imaging, in particular in the development of data-driven algorithms, to other inverse problems that can benefit from the same or similar algorithms.

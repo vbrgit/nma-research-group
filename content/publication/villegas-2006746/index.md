@@ -10,7 +10,7 @@ authors:
 - R. Villegas
 - O. Dorn
 - M.A. Moscoso
-- M. Kindelán
+- Kindelan
 - F.J. Mustieles
 
 # Author notes (such as 'Equal Contribution')
@@ -20,7 +20,7 @@ author_notes: []
 date: '2006-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:46.900556Z'
+publishDate: '2023-12-21T16:17:57.073568Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

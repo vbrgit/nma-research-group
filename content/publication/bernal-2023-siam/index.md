@@ -1,24 +1,23 @@
 ---
-title: Energy limits on runaway electrons in tokamak plasmas
+title: Iterative Schemes for Probabilistic Domain Decomposition
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- J.R. Martín-Solís
-- B. Esposito
-- R. Sánchez
-- Alvarez
+- Moron
+- Bernal
+- Renato Spigler
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '1999-01-01'
+date: 0-01-01
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-12-21T16:17:57.269164Z'
+publishDate: '2023-12-21T16:17:56.496733Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -26,26 +25,21 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Physics of Plasmas*'
+publication: '*SIAM Journal on Scientific Computing*'
 publication_short: ''
 
-doi: 10.1063/1.873276
+doi: 10.1137/22M1503580
 
-abstract: A test particle description of the runaway dynamics is used to analyze some
-  of the main mechanisms limiting the runaway energy in a tokamak plasma. It is found
-  that the synchrotron radiation losses associated with the electron gyromotion around
-  the magnetic field lines can explain the energy limit of runaway electrons found
-  experimentally by observing their bremsstrahlung spectra during the current ramp-up
-  of low density Ohmic discharges in the Joint European Torus (JET) [Nucl. Fusion
-  25, 1011 (1985)]. The model is applied to the problem of determining the influence
-  of a resonance between the electron gyromotion and the magnetic field ripple of
-  the tokamak on the radiation loss and energy limits of runaway electrons. The equilibrium
-  energy at the resonance and the conditions under which the ripple mechanism can
-  create an upper bound on the runaway energy are investigated. Predictions are discussed
-  on the effect of the ripple resonance on the maximum energy attainable by disruption
-  generated runaway electrons in JET and the projected International Thermonuclear
-  Experimental Reactor (ITER) [ITER EDA Agreement and Protocol 2, International Atomic
-  Energy Agency, Vienna, 1994]. © 1999 American Institute of Physics.
+abstract: 'Probabilistic domain decomposition (PDD) is an alternative paradigm for
+  solving boundary value problems (BVPs) in parallel with excellent scalability properties,
+  thanks to its reliance on stochastic representations of the BVP. However, there
+  are cases when the latter is less numerically convenient, or unknown. Semilinear
+  elliptic BVPs and the Helmholtz equation are prominent examples of either class.
+  In this paper, we overcome this issue by designing suitable iterative schemes for
+  either problem. These schemes not only retain the desirable properties of PDD but
+  also are optimally suited for pathwise variance reduction, resulting in a systematic,
+  nearly cost-free reduction of the statistical error through the iterations. Numerical
+  tests carried out on the supercomputer Marconi100 are presented. '
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -85,8 +79,7 @@ image:
 projects: []
 links:
 - name: URL
-  url: 
-    https://www.scopus.com/inward/record.uri?eid=2-s2.0-0032621918&doi=10.1063%2f1.873276&partnerID=40&md5=90810ea40cbf5b664918c9f3e35926c3
+  url: https://doi.org/10.1137/22M1503580
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

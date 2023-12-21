@@ -7,7 +7,7 @@ title: Breaking the symmetry in bimodal frequency distributions of globally coup
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- J.A. Acebrón
+- Acebron
 - L.L. Bonilla
 - S. De Leo
 - R. Spigler
@@ -19,7 +19,7 @@ author_notes: []
 date: '1998-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:47.153404Z'
+publishDate: '2023-12-21T16:17:57.299101Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

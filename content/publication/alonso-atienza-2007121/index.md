@@ -9,8 +9,8 @@ title: 'Reconstruction of transmembrane currents using support vector machines a
 authors:
 - F. Alonso-Atienza
 - J.L. Rojo-Aĺvarez
-- D. Álvarez
-- M. Moscoso
+- Alvarez
+- Moscoso
 - A. García-Alberola
 
 # Author notes (such as 'Equal Contribution')
@@ -20,7 +20,7 @@ author_notes: []
 date: '2007-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:46.841621Z'
+publishDate: '2023-12-21T16:17:57.012818Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

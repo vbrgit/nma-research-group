@@ -7,7 +7,7 @@ title: 'Noise-mediated dynamics in a two-dimensional oscillator: Exact solutions
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- J.A. Acebrón
+- Acebron
 - A.R. Bulsara
 - M.E. Inchiosa
 - W.-J. Rappel
@@ -19,7 +19,7 @@ author_notes: []
 date: '2001-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:47.028636Z'
+publishDate: '2023-12-21T16:17:57.197175Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

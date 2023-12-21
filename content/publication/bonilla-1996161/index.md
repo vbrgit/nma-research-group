@@ -9,8 +9,8 @@ authors:
 - L.L. Bonilla
 - O.M. Bulashenko
 - J. Galán
-- M. Kindelan
-- M. Moscoso
+- Kindelan
+- Moscoso
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -19,7 +19,7 @@ author_notes: []
 date: '1996-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:47.195751Z'
+publishDate: '2023-12-21T16:17:57.337487Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

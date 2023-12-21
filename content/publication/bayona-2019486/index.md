@@ -7,7 +7,7 @@ title: Comparison of Moving Least Squares and RBF+poly for Interpolation and Der
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- V. Bayona
+- Bayona
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -16,7 +16,7 @@ author_notes: []
 date: '2019-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:46.347579Z'
+publishDate: '2023-12-21T16:17:56.602484Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

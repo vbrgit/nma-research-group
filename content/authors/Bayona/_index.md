@@ -8,7 +8,7 @@ last_name: Bayona
 
 # Username (this should match the folder name)
 authors:
-  - Victor Bayona
+  - Bayona
 
 # Is this the primary user of the site?
 superuser: false

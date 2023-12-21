@@ -8,7 +8,7 @@ title: Spatiotemporal structures in undoped photoexcited semiconductor superlatt
 authors:
 - A. Perales
 - L.L. Bonilla
-- M. Moscoso
+- Moscoso
 - J. Galán
 
 # Author notes (such as 'Equal Contribution')
@@ -18,7 +18,7 @@ author_notes: []
 date: '2001-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:47.071047Z'
+publishDate: '2023-12-21T16:17:57.231049Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

@@ -7,9 +7,9 @@ title: Structural level set inversion for microwave breast screening
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - N. Irishina
-- D. Álvarez
+- Alvarez
 - O. Dorn
-- M. Moscoso
+- Moscoso
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -18,7 +18,7 @@ author_notes: []
 date: '2010-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:46.699729Z'
+publishDate: '2023-12-21T16:17:56.892416Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

@@ -1,14 +1,14 @@
 ---
-title: RBF BASED QUADRATURE ON THE SPHERE
+title: RBF based quadrature on the sphere
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- M. Kindelan
-- P. González-Rodríguez
-- D. Álvarez
+- Kindelan
+- Gonzalez
+- Alvarez
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -17,7 +17,7 @@ author_notes: []
 date: '2022-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:46.253149Z'
+publishDate: '2023-12-21T16:17:56.521509Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -39,7 +39,7 @@ abstract: The paper describes a new RBF-FD based technique to compute quadrature
   a new algorithm to cluster nodes in regions of steep changes in the function. It
   is a repulsion-based algorithm with a non-uniform distribution of electrical charges.
   We show that, using node clustering, the accuracy of the method can be significantly
-  improved. © 2022 M. Kindelan et al.
+  improved. © 2022 Kindelan et al.
 
 # Summary. An optional shortened abstract.
 summary: ''

@@ -6,7 +6,7 @@ title: Bifurcation behavior of a superlattice model
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- M. Moscoso
+- Moscoso
 - J. Galán
 - L.L. Bonilla
 
@@ -17,7 +17,7 @@ author_notes: []
 date: '2000-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:47.103255Z'
+publishDate: '2023-12-21T16:17:57.256394Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

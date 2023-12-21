@@ -9,7 +9,7 @@ title: The fractional Fourier transform in the analysis and synthesis of fiber B
 authors:
 - E. Mazzetto
 - C.G. Someda
-- J.A. Acebrón
+- Acebron
 - R. Spigler
 
 # Author notes (such as 'Equal Contribution')
@@ -19,7 +19,7 @@ author_notes: []
 date: '2005-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:46.926779Z'
+publishDate: '2023-12-21T16:17:57.101104Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

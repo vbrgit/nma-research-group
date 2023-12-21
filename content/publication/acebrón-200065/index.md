@@ -7,7 +7,7 @@ title: Uncertainty in phase-frequency synchronization of large populations of gl
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- J.A. Acebrón
+- Acebron
 - R. Spigler
 
 # Author notes (such as 'Equal Contribution')
@@ -17,7 +17,7 @@ author_notes: []
 date: '2000-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:47.098115Z'
+publishDate: '2023-12-21T16:17:57.252136Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

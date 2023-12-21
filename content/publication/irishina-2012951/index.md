@@ -7,7 +7,7 @@ title: Source location from fluorescence lifetime in disordered media
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - N. Irishina
-- M. Moscoso
+- Moscoso
 - R. Carminati
 
 # Author notes (such as 'Equal Contribution')
@@ -17,7 +17,7 @@ author_notes: []
 date: '2012-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:46.617672Z'
+publishDate: '2023-12-21T16:17:56.826039Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

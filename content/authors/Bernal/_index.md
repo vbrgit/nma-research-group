@@ -8,7 +8,7 @@ last_name: Bernal
 
 # Username (this should match the folder name)
 authors:
-  - Francisco Bernal
+  - Bernal
 
 
 # Is this the primary user of the site?
@@ -62,4 +62,4 @@ user_groups:
 
 ---
 
-Francisco Bernal studied Physics at the University of Seville and got his PhD at Universidad Carlos III de Madrid (UC3M). He has since held postdoctoral positions at the TU Dresden, University of Oxford, Instituto Superior Técnico in Lisbon, and the Ecole Polytechnique of Paris, and is currently with the [Department of Mathematics](https://www.uc3m.es/departamento-matematicas/inicio) at UC3M with a senior Talento contract from CAM. He is an applied mathematician specialising in numerical methods for partial and stochastic differential equations, as well as applications thereof in fluid dynamics, materials sciences, supercomputing, and financial mathematics. 
+Francisco Bernal studied Physics at the University of Seville and got his PhD at Universidad Carlos III de Madrid (UC3M). He has since held postdoctoral positions at the TU Dresden, University of Oxford, Instituto Superior Técnico in Lisbon, and the Ecole Polytechnique of Paris, and is currently with the Department of Mathematics at UC3M with a senior Talento contract from CAM. He is an applied mathematician specialising in numerical methods for partial and stochastic differential equations, as well as applications thereof in fluid dynamics, materials sciences, supercomputing, and financial mathematics. 

@@ -8,8 +8,8 @@ title: Periodic generation and propagation of traveling fronts in dc voltage bia
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - L.L. Bonilla
-- M. Kindelan
-- M. Moscoso
+- Kindelan
+- Moscoso
 - S. Venakides
 
 # Author notes (such as 'Equal Contribution')
@@ -19,7 +19,7 @@ author_notes: []
 date: '1997-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:47.179803Z'
+publishDate: '2023-12-21T16:17:57.321623Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

@@ -9,8 +9,8 @@ title: Reservoir characterization using stochastic initializations and the level
 authors:
 - R. Villegas
 - O. Dorn
-- M. Moscoso
-- M. Kindelan
+- Moscoso
+- Kindelan
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -19,7 +19,7 @@ author_notes: []
 date: '2008-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:46.802906Z'
+publishDate: '2023-12-21T16:17:56.977974Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

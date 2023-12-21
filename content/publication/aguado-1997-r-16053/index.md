@@ -9,7 +9,7 @@ title: Microscopic model for sequential tunneling in semiconductor multiple quan
 authors:
 - R. Aguado
 - G. Platero
-- M. Moscoso
+- Moscoso
 - L. Bonilla
 
 # Author notes (such as 'Equal Contribution')
@@ -19,7 +19,7 @@ author_notes: []
 date: '1997-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:47.185255Z'
+publishDate: '2023-12-21T16:17:57.326869Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

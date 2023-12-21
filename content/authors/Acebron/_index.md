@@ -8,7 +8,7 @@ last_name: Acebrón
 
 # Username (this should match the folder name)
 authors:
-  - Juan Acebron
+  - Acebron
 
 
 # Is this the primary user of the site?

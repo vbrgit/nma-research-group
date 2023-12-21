@@ -8,7 +8,7 @@ title: Drift model of resonant tunneling in superlattices including a time delay
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - A. Perales
-- M. Moscoso
+- Moscoso
 - L.L. Bonilla
 
 # Author notes (such as 'Equal Contribution')
@@ -18,7 +18,7 @@ author_notes: []
 date: '1999-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:47.127160Z'
+publishDate: '2023-12-21T16:17:57.277665Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

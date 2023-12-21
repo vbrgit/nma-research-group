@@ -6,7 +6,7 @@ title: Coherent imaging without phases
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- M. Moscoso
+- Moscoso
 - A. Novikov
 - G. Papanicolaou
 
@@ -17,7 +17,7 @@ author_notes: []
 date: '2016-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:46.485657Z'
+publishDate: '2023-12-21T16:17:56.716615Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -33,7 +33,7 @@ doi: 10.1137/16M1064830
 abstract: In this paper we consider narrow band, active array imaging of weak localized
   scatterers when only the intensities are recorded at an array with N transducers.
   We assume that the medium is homogeneous and, hence, wave propagation is fully coherent.
-  This work is an extension of our previous paper [A. Novikov, M. Moscoso, and G.
+  This work is an extension of our previous paper [A. Novikov, Moscoso, and G.
   Papanicolaou, SIAM J. Imaging Sci., 8 (2015), pp. 1547-1573], where we showed that
   using linear combinations of intensity-only measurements, obtained from N2 illuminations,
   imaging of localized scatterers can be carried out efficiently using imaging methods

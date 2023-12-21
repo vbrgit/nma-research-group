@@ -10,7 +10,7 @@ authors:
 - J.N. Leboeuf
 - V.E. Lynch
 - B.A. Carreras
-- J.D. Alvarez
+- Alvarez
 - L. Garcia
 
 # Author notes (such as 'Equal Contribution')
@@ -20,7 +20,7 @@ author_notes: []
 date: '2000-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T10:36:47.112836Z'
+publishDate: '2023-12-21T16:17:57.264819Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
