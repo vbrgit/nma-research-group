@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Numerical Methods and Applications Research Group
+title: Numerical Methods and Applications
 
 # Full Name (for SEO)
 first_name: 
@@ -58,5 +58,5 @@ user_groups:
 
 ---
 
-The **Numerical Methods and Applications Research Group** at UC3M focuses on developing, analyzing, and implementing numerical methods to address challenges at the intersection of mathematics, science/engineering, and high-performance scientific computing with a practical emphasis on real-world problem-solving. 
+The research group **Numerical Methods and Applications** at UC3M focuses on developing, analyzing, and implementing numerical methods to address challenges at the intersection of mathematics, science/engineering, and high-performance scientific computing with a practical emphasis on real-world problem-solving. 
 
