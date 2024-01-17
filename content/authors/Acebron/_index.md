@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Juan Acebrón
+title: Juan A. Acebrón
 
 # Full name (for SEO)
 first_name: Juan

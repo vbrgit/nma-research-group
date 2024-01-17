@@ -26,6 +26,7 @@ sections:
           - Administration
           - Visitors
           - Alumni
+          - Former Members
       sort_by: Params.last_name
       sort_ascending: true
     design:
