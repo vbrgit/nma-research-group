@@ -7,7 +7,7 @@ title: The use of a simple model in the inverse characterization of cardiac isch
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- C.E. Chávez
+- Chavez
 - F. Alonso-Atienza
 - Alvarez
 

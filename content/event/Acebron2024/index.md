@@ -25,8 +25,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-01-16'
 
-authors: [Juan A. Acebrón (UC3M)]
-tags: [Acebron]
+authors: [Acebron]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
