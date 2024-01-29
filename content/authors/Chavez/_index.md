@@ -62,4 +62,4 @@ user_groups:
 
 ---
 
-Carlos E Borges Chávez obtained his Bachelor's Degree in Applied Mathematics from Universidad Simón Bolivar (Venezuela) in 2009 and earned his PhD in Mathematical Engineering from Universidad Carlos III de Madrid in 2017. Since 2017, he is a Specialist Data Scientist working at Vodafone Group. 
+Carlos E. Borges Chávez obtained his Bachelor's Degree in Applied Mathematics from Universidad Simón Bolivar (Venezuela) in 2009 and earned his PhD in Mathematical Engineering from Universidad Carlos III de Madrid in 2017. Since 2017, he is a Specialist Data Scientist working at Vodafone Group. 

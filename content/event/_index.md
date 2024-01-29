@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Seminars
+title: Seminars
 
 # Listing view
 view: 2

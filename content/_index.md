@@ -55,7 +55,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Seminars
+      title: Recent & Upcoming Seminars
       subtitle: ''
       text: 
       # Choose how many pages you would like to display (0 = all pages)
