@@ -20,7 +20,7 @@ names:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Quant Developer
 
 # Organizations/Affiliations
 organizations:
@@ -62,8 +62,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Former Members
 
 ---
-
-Jorge Morón-Vidal got his Bachelor of Science in Physics in 2018 from the University of Zaragoza. In 2019, he completed a Master's in General Physics from the University of Zaragoza and Cergy Paris University. Since 2019, he has been a mathematical engineering PhD candidate at UC3M, supervised by Dr Francisco Bernal. It is expected that he will defend his PhD in early 2024. His research interests include probabilistic domain decomposition algorithms, numerical methods for PDE solving and high parallel computing.
+ 
+ Jorge Morón-Vidal holds a PhD in Mathematical Engineering. As a researcher, he is interested in parallel algorithms going from the mathematical foundations of their formulation to their implementation in HPC facilities. Before his PhD, he got a BSc in Physics and a double-diploma master's in Theoretical Physics and Physics and Physical Technologies from the University of Zaragoza and CY Cergy Paris University. Currently, he is a Quant Developer working at BBVA. 
